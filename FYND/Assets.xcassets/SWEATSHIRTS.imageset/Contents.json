@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "11507784539780-Roadster-Men-Navy-Blue--Maroon-Self-Design-Pullover-4161507784539657-5.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "11507784539780-Roadster-Men-Navy-Blue--Maroon-Self-Design-Pullover-4161507784539657-6.jpg",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "11507784539780-Roadster-Men-Navy-Blue--Maroon-Self-Design-Pullover-4161507784539657-7.jpg",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
